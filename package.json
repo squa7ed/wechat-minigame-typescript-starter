@@ -1,0 +1,14 @@
+{
+  "name": "wechat-minigame-typescript-starter",
+  "version": "1.0.0",
+  "description": "wechat mini game typescript starter",
+  "main": "game.js",
+  "repository": "https://github.com/squa7ed/wechat-minigame-typescript-starter",
+  "author": "squa7ed <squa7ed@outlook.com>",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "build": "tsc",
+    "watch": "tsc --watch"
+  }
+}
