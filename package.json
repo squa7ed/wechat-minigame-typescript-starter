@@ -10,5 +10,8 @@
   "scripts": {
     "build": "tsc",
     "watch": "tsc --watch"
+  },
+  "devDependencies": {
+    "typescript": "^3.2.2"
   }
 }
